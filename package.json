@@ -1,0 +1,24 @@
+{
+  "name": "iyf-s10-week-10-markchege10-ux",
+  "version": "1.0.0",
+  "description": "- **Name:** Mark muraya\r - **GitHub:** [@Markchege10-ux](https://github.com/Markchege10-ux)\r - **Date:** April 25, 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markchege10-ux/iyf-s10-week-10-markchege10-ux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/markchege10-ux/iyf-s10-week-10-markchege10-ux/issues"
+  },
+  "homepage": "https://github.com/markchege10-ux/iyf-s10-week-10-markchege10-ux#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
